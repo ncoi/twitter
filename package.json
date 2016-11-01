@@ -1,0 +1,22 @@
+{
+  "name": "login_sequelize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.3.0",
+    "body-parser": "*",
+    "express": "*",
+    "jsonwebtoken": "^7.1.9",
+    "mysql": "^2.11.1",
+    "sequelize": "^3.24.3",
+    "passport": "*",
+    "passport-jwt": "*"
+  }
+}
